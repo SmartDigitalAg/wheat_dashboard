@@ -1,4 +1,7 @@
 # 익산/남원 NDVI 대시보드, 익산 토양센서 대시보드
+* 익산 NDVI > http://web01.taegon.kr:8505/
+* 남원 NDVI > http://web01.taegon.kr:8507/
+* 익산 토양센서 > http://web01.taegon.kr:8506/
 
 
 ## 1. 익산/남원 NDVI 대시보드
