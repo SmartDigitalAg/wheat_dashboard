@@ -1,6 +1,5 @@
 # 익산/남원 NDVI 대시보드, 익산 토양센서 대시보드
 
-****
 
 ## 1. 익산/남원 NDVI 대시보드
 * 익산 > http://web01.taegon.kr:8505/
@@ -20,7 +19,6 @@
 ### 1-2. 흐름도
 ![image](https://user-images.githubusercontent.com/93760723/236781084-68d7c1be-6197-440f-a581-91f3bd04a1d8.png)
 
-****
 
 ## 2. 익산 토양센서 대시보드
 * 익산 > http://web01.taegon.kr:8506/
@@ -87,8 +85,6 @@ Google Cloud SDK Shell에서 다음 명령어를 입력하고 Google 계정으�
 ````angular2svg
 gcloud init
 ````
-
------
 
 Pycharm Interpreter Settings > Plugins > ```Google Cloud Code``` install 
 
